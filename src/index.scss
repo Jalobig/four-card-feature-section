@@ -1,0 +1,21 @@
+:root {
+// // Colors
+
+// Primary
+
+--color-primary: hsl(180, 62%, 55%);
+--color-secondary: hsl(0, 78%, 62%);
+--color-tertiary: hsl(34, 97%, 64%);
+--color-quartery: hsl(212, 86%, 64%);
+
+// Neutral
+
+--color-grey-dark: hsl(234, 12%, 34%);
+--color-grey: hsl(229, 6%, 66%);
+--color-grey-light: hsl(0, 0%, 98%);
+}
+
+body {
+  margin: 0;
+  font-family: 'Poppins', sans-serif;
+}
